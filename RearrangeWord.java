@@ -23,7 +23,6 @@ public class RearrangeWord {
         }
 
         s1[0] = ch + s1[0].substring(1);
-       // System.out.println(Arrays.toString(s1));
         String s3="";
         for(int i=0;i<s1.length;i++)
         {
