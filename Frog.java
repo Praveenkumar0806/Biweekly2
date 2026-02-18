@@ -38,7 +38,7 @@ public class Frog {
                     return;
                 }
             } else {
-                System.out.println(-1); // invalid character
+                System.out.println(-1);
                 return;
             }
             int currentFrogs = count[0] + count[1] + count[2] + count[3];
